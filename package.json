@@ -11,7 +11,7 @@
     "axios": "^0.18.1",
     "chartjs": "^0.3.24",
     "circular-json": "^0.5.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lru-cache": "^5.1.1",
     "numeric-keyboard": "^0.6.1",
     "register-service-worker": "^1.6.2",
